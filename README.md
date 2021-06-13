@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux’ta Homebrew: LinuxBrew](https://linuxsorularim.com/linuxta-homebrew-linuxbrew)
+- [Linux’ta oyun oynama](https://linuxsorularim.com/linuxta-oyun-oynama)
+- [Önyükleme ekranını rEFInd ile özelleştirin](https://linuxsorularim.com/onyukleme-ekranini-refind-ile-ozellestirin)
+- [Terminali verimli kullanın](https://linuxsorularim.com/terminali-verimli-kullanin)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
